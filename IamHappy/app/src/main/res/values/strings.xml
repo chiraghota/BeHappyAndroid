@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="feed_likes"></string>
+    <string name="feed_comments"></string>
 </resources>
