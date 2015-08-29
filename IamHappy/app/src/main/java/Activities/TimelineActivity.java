@@ -1,4 +1,4 @@
-package Activities;
+package activities;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -6,7 +6,7 @@ import android.widget.ListView;
 
 import java.util.List;
 
-import VO.FeedVO;
+import vo.FeedVO;
 import iamhappy.in.iamhappy.R;
 import util.ConstantUtils;
 

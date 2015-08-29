@@ -5,4 +5,11 @@
     <string name="action_settings">Settings</string>
     <string name="feed_likes"></string>
     <string name="feed_comments"></string>
+
+    <string name="facebook_app_id">1651831611700886</string>
+
+    <string name="msg_timeout_error">Timeout error</string>
+    <string name="msg_network_not_available">Network error</string>
+
+
 </resources>
