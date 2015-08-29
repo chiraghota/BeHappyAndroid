@@ -17,7 +17,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-import VO.FeedVO;
+import vo.FeedVO;
 import iamhappy.in.iamhappy.R;
 import util.AppUtil;
 import util.ConstantUtils;

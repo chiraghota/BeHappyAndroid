@@ -13,7 +13,7 @@ import com.android.volley.toolbox.ImageLoader;
 
 import java.util.List;
 
-import VO.FeedVO;
+import vo.FeedVO;
 import iamhappy.in.iamhappy.R;
 import server.RequestManager;
 import util.AppUtil;
