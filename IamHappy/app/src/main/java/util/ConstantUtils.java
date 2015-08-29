@@ -6,4 +6,5 @@ package util;
 public class ConstantUtils {
 
     public static final String IKEY_FEED_LIST = "feed_list";
+    public static final String IKEY_IMAGE_PATH = "image_path";
 }

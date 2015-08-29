@@ -1,5 +1,8 @@
 package util;
 
+import android.content.Context;
+import android.widget.Toast;
+
 /**
  * Created by Prateek on 29/08/15.
  */
@@ -10,5 +13,9 @@ public class AppUtil {
             return false;
         }
         return true;
+    }
+
+    public static void showToast(Context context, String msg){
+        Toast.makeText(context,msg, Toast.LENGTH_SHORT).show();
     }
 }
